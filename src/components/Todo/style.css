@@ -1,0 +1,16 @@
+button, input[type="submit"]{
+    margin: 0 10px;
+}
+li{
+    padding: 10px;
+}
+.btn__action{
+    float: right;
+}
+li:nth-child(odd){
+    background: #f4f4f4;
+}
+
+li:nth-child(even){
+    background: #e8e8e8;
+}
